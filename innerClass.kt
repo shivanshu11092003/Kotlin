@@ -1,4 +1,6 @@
 class Box(val len : Int,val brea :Int,val hei : Int){
+    // using innner i can use parameter of parent class
+    
 
     inner class content(val content : String){
         fun printBoxInfo(){

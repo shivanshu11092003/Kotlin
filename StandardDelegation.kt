@@ -1,6 +1,8 @@
 
 
 import kotlin.properties.Delegates
+
+// predefined delegates 
 class studentheavy{
     init{
         println("Student heavy ")
